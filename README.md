@@ -56,7 +56,7 @@ Thank you for your consideration!
 <!--GITHUB STREAK-->
 <br>
 <p align = "center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rxhxt&" alt="rxhxt" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rxhxt&theme=tokyonight&hide_border=true" alt="rxhxt" />
 </p>
 
 <!--CURRENTLY WORKING ON-->
